@@ -1,5 +1,5 @@
-#include "trixsignal.h"
-#include "signal.h"
+#include "trixsignal.hpp"
+#include "signal.hpp"
 #include <iostream>
 #include <string>
 

@@ -3,8 +3,8 @@
 #define DIALOGB_H
 #include <iostream>
 #include <string>
-#include "trixsignal.h"
-#include "signal.h"
+#include "trixsignal.hpp"
+#include "signal.hpp"
 using namespace Prog2B;
 int dialog(const std::string choice[], int N) {
 	int rc;

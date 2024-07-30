@@ -3,7 +3,7 @@
 #define FUNCB_H
 #include <iostream>
 #include <string>
-#include "signal.h"
+#include "signal.hpp"
 
 namespace Prog2B {
 	class Vector {

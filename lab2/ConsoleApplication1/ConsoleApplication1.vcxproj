@@ -133,9 +133,9 @@
     <ClCompile Include="trixsignal.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dialog.h" />
-    <ClInclude Include="signal.h" />
-    <ClInclude Include="trixsignal.h" />
+    <ClInclude Include="dialog.hpp" />
+    <ClInclude Include="signal.hpp" />
+    <ClInclude Include="trixsignal.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

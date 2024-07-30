@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
-#include "signal.h"
-#include "trixsignal.h"
-#include "dialog.h"
+#include "signal.hpp"
+#include "trixsignal.hpp"
+#include "dialog.hpp"
 
 using namespace Prog2B;
 int main() {

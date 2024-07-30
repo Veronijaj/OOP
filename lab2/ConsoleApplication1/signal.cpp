@@ -1,4 +1,4 @@
-#include "signal.h"
+#include "signal.hpp"
 #include <iostream>
 #include <string>
 
